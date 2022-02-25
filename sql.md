@@ -234,7 +234,7 @@ To add, remove, or modify columns and table constraints.
 To remove an entire table including all of its data and metadata
 
 #### Syntax:
-	DROP TABLE IF EXISTS mytable;S
+	DROP TABLE IF EXISTS mytable;
 
 ##### Solution:
-![image](images/Exercise18.PNG)S
+![image](images/Exercise18.PNG)

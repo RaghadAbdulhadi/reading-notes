@@ -229,7 +229,7 @@ To add, remove, or modify columns and table constraints.
 ![image](images/Exercise17.PNG)
 
 
-## Exercise#17:
+## Exercise#18:
 **Dropping tables**
 To remove an entire table including all of its data and metadata
 
@@ -237,4 +237,4 @@ To remove an entire table including all of its data and metadata
 	DROP TABLE IF EXISTS mytable;S
 
 ##### Solution:
-![image](images/Exercise18.PNG)
+![image](images/Exercise18.PNG)S

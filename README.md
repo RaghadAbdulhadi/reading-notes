@@ -12,10 +12,10 @@ A Repository for saving my notes and observations about topics I learned through
 ### Table of Contents:
 | Task Name      | Task Link |
 | ----------- | ----------- |
-| SQL      | [SQL Notes](https://github.com/RaghadAbdulhadi/reading-notes/blob/main/sql.md)       |
-| The Growth Mindset   |     [The Growth Mindset Notes]()    |
-| CLI   |    [CLI Notes](https://github.com/RaghadAbdulhadi/reading-notes/blob/main/CLI.md)    |
-| Python Core Certificate   |     [SoloLearn Certificate](https://github.com/RaghadAbdulhadi/reading-notes/blob/main/pythoncore.md)   |
+| SQL |[SQL Notes](https://github.com/RaghadAbdulhadi/reading-notes/blob/main/sql.md)|
+| The Growth Mindset |[The Growth Mindset Notes](https://github.com/RaghadAbdulhadi/reading-notes/blob/main/TheGrowthMindset.md)|
+| CLI |[CLI Notes](https://github.com/RaghadAbdulhadi/reading-notes/blob/main/CLI.md)|
+| Python Core Certificate |[SoloLearn Certificate](https://github.com/RaghadAbdulhadi/reading-notes/blob/main/pythoncore.md)|
 
 
 

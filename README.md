@@ -18,6 +18,12 @@ A Repository for saving my notes and observations about topics I learned through
 | Python Core Certificate |[SoloLearn Certificate](./pythoncore.md)|
 
 
+# Reads
+| Read0 | Link |
+| ----------- | ----------- |
+| Read01 | [Read01](./Read01.md) |
+| Read02 | Text |
+
 
 
 

@@ -22,7 +22,7 @@ A Repository for saving my notes and observations about topics I learned through
 | Read0 | Link |
 | ----------- | ----------- |
 | Read01 | [Read01](./Read01.md) |
-| Read02 | Text |
+| Read02 | [Read02](./Read02.md) |
 
 
 

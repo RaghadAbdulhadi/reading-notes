@@ -23,12 +23,4 @@ A Repository for saving my notes and observations about topics I learned through
 | ----------- | ----------- |
 | Read01 | [Read01](./Read01.md) |
 | Read02 | [Read02](./Read02.md) |
-
-
-
-
-
-
-
-
-
+| Read03 | [Read03](./Read03.md) |

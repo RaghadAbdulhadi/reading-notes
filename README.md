@@ -27,3 +27,4 @@ A Repository for saving my notes and observations about topics I learned through
 | Read04 | [Read04](./Read04.md) |
 | Read05 | [Read05](./Read05.md) |
 | Read06 | [Read06](./Read06.md) |
+| Read07 | [Read07](./Read07.md) |

@@ -30,4 +30,6 @@ A Repository for saving my notes and observations about topics I learned through
 | Read07 | [Read07](./Read07.md) |
 | Read08 | [Read08](./Read08.md) |
 | Read09 | [Read09](./Read09.md) |
+| Read10 | [Read10](./Read10.md) |
+
 

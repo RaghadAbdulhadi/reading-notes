@@ -26,7 +26,7 @@ Reset 0
 **Jupyter Note Books:**
 
 New way to work easily with data and code
-Jupyet has 2 modes:
+Jupyer has 2 modes:
 1. When a notebook is open --> Command Mode --> Easily navigating and changing the framework of my notebook
 2. Edit mode: press enter to edit the current active cell
 

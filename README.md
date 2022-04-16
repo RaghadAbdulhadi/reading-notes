@@ -38,8 +38,3 @@ A Repository for saving my notes and observations about topics I learned through
 | Read15 | [Read15](./Read15.md) |
 | Read16 | [Read16](./Read16.md) |
 | Read17 | [Read17](./Read17.md) |
-
-
-
-
-

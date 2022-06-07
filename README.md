@@ -46,9 +46,9 @@ A Repository for saving my notes and observations about topics I learned through
 | Read23 | [Read23](./Read23.md) |
 | Read24 | [Read24](./Read24.md) |
 | Read25 | [Read25](./Read25.md) |
-| Read26 | [Read25](./Read26.md) |
-| Read27 | [Read25](./Read27.md) |
-| Read28 | [Read25](./Read28.md) |
+| Read26 | [Read26](./Read26.md) |
+| Read27 | [Read27](./Read27.md) |
+| Read28 | [Read28](./Read28.md) |
 
 
 

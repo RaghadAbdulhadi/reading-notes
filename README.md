@@ -50,6 +50,8 @@ A Repository for saving my notes and observations about topics I learned through
 | Read27 | [Read27](./Read27.md) |
 | Read28 | [Read28](./Read28.md) |
 | Read29 | [Read29](./Read29.md) |
+| Read30 | [Read30](./Read30.md) |
+
 
 
 
